@@ -1,0 +1,8 @@
+REM INSERTING into PRMSADMIN.FEATURE
+SET DEFINE OFF;
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (1,'TV','dk','tv.png');
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (2,'White Board','dk','wb.png');
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (3,'Projector','dk','proj.png');
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (4,'Chairs','dk','chair.png');
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (5,'Tables','dk','table.png');
+Insert into PRMSADMIN.FEATURE (FEAID,FEATYPE,DESCRIPTION,ICONPATH) values (6,'Phone','dk','cell.png');

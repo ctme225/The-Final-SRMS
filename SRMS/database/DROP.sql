@@ -1,0 +1,10 @@
+DROP TABLE "PRMSADMIN"."BOOKING" cascade constraints;
+DROP TABLE "PRMSADMIN"."FEATURE" cascade constraints;
+DROP TABLE "PRMSADMIN"."INVITATION" cascade constraints;
+DROP TABLE "PRMSADMIN"."LOCATION" cascade constraints;
+DROP TABLE "PRMSADMIN"."LOCATIONRESOURCE" cascade constraints;
+DROP TABLE "PRMSADMIN"."RESOURCEFEATURE" cascade constraints;
+DROP TABLE "PRMSADMIN"."RESOURCES" cascade constraints;
+DROP TABLE "PRMSADMIN"."RESOURCETYPE" cascade constraints;
+DROP TABLE "PRMSADMIN"."USERS" cascade constraints;
+DROP TABLE "PRMSADMIN"."VISITOR" cascade constraints;

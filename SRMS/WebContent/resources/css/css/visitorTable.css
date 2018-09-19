@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+
+	#tablediv{
+		margin-top:10px;
+		height: 500px;
+		
+	}
+
+	#outbutton{
+		background-color: red;
+	}

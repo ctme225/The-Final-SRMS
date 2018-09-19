@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.bcolor
+{
+	background-color: khaki;
+	border-color: red;
+	border:double;
+	
+}
+
+.bimage
+{
+	background-image: url("logo.jpg");
+}
